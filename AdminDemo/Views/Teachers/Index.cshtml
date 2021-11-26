@@ -1,0 +1,34 @@
+﻿@model IEnumerable<AdminDemo.Models.TeachersModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Teachers</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="card-deck">
+    @foreach (var item in Model)
+    {
+        var photoPath = "/images/" + (item.PhotoPath ?? "noimage.png");
+    <div class="card m-3" style="min-width: 18rem; max-width:30.5%;">
+        <div class="card-header">
+            <h3 class="display-4">@item.TeacherName</h3>
+        </div>
+
+        <img class="card-img-top imageThumbnail" src="@photoPath"
+             asp-append-version="true" /> 
+        <div class="card-body text-center">
+            <h5>Department : @item.TeacherDept</h5>
+        </div>
+
+            <div class="card-footer text-center">
+                <a class="btn btn-primary m-1" asp-action="Edit" asp-route-id="@item.TeacherId">Edit</a>
+                <a class="btn btn-primary m-1" asp-action="Details" asp-route-id="@item.TeacherId">Details</a>
+                <a class="btn btn-danger m-1" asp-action="Delete" asp-route-id="@item.TeacherId">Delete</a>
+            </div>
+        </div>
+        }
+    </div>

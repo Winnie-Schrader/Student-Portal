@@ -1,0 +1,12 @@
+﻿@model IEnumerable<AdminDemo.ViewModels.RegisterViewModels>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome @User.Identity.Name</h1>
+</div>
+

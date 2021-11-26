@@ -1,0 +1,21 @@
+﻿@model int
+
+
+@{
+    ViewData["Title"] = "IDNotFound";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>IDNotFound</h1>
+<div class="alert alert-danger mt-1 mb-1">
+    <h4>404 Not Found Error</h4>
+    <hr />
+    <h5>
+    ID @Model Cannot be found
+        </h5>
+    </div>
+<br />
+<a asp-controller="Users" asp-action="Index" class="btn btn-outline-success">
+    Click Here to Continue
+</a> 
+

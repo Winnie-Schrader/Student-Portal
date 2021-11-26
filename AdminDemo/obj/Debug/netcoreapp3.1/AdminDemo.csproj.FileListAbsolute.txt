@@ -1,0 +1,409 @@
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.StaticWebAssets.xml
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.exe
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.deps.json
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.runtimeconfig.json
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.runtimeconfig.dev.json
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.pdb
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.Views.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.Views.pdb
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\staticwebassets\AdminDemo.StaticWebAssets.Manifest.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\staticwebassets\AdminDemo.StaticWebAssets.xml
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorAssemblyInfo.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorAssemblyInfo.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.AssemblyInfo.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.TagHelpers.input.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.TagHelpers.output.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorCoreGenerate.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.Views.pdb
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.csproj.CopyComplete
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.pdb
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Create.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Delete.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Details.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Edit.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Index.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Details.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\List.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\WebOptimizer.Core.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\NUglify.dll
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leo\Desktop\ASP.NET MVC Core Trial\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\libman.json
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.StaticWebAssets.xml
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.exe
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.deps.json
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.runtimeconfig.json
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.runtimeconfig.dev.json
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.pdb
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.Views.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\AdminDemo.Views.pdb
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.csprojAssemblyReference.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.AssemblyInfoInputs.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.AssemblyInfo.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorAssemblyInfo.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorAssemblyInfo.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.TagHelpers.input.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.TagHelpers.output.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorCoreGenerate.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Create.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Delete.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Details.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Edit.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Index.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\IDNotFound.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Create.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Delete.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Details.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Edit.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\Index.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Users\List.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorTargetAssemblyInfo.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.RazorTargetAssemblyInfo.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.Views.pdb
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.csproj.CopyComplete
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\staticwebassets\AdminDemo.StaticWebAssets.Manifest.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\staticwebassets\AdminDemo.StaticWebAssets.xml
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.pdb
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.genruntimeconfig.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.csproj.CoreCompileInputs.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.MvcApplicationPartsAssemblyInfo.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\AdminDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Account\Create.cshtml.g.cs
+E:\DIP RECOVERY\ASP.NET MVC CORE PROJECT BACKUPS\ASP.NET MVC Core Trial Backup 5\AdminDemo\AdminDemo\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
